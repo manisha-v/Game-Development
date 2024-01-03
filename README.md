@@ -17,8 +17,8 @@ This repository contains the source code for 8 different games developed in Unit
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/game-development-repo.git
-   cd game-development-repo
+   git clone https://github.com/manisha-v/Game-Development.git
+   cd Game-Development
    ```
 
 2. **Choose a Game:**
